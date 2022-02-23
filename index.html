@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+    <title>Hangman</title>
+
+<div>
+    <img id="titlePic" src="./screenshots/ScreenShot 2022-02-23 at 11.39.11 AM.png" alt="">
+</div>
+</head>
+<body>
+    <div class="container">
+    <h2 class="text-center"></h2>
+    <div class="float-right"><b>Wrong Guesses: </b><span id='mistakes'>0</span> of <span id="maxWrong"></span></div>
+    </div class="text-center">
+        <img id="hangmanPic" src="./images/0.jpeg" alt="">
+        <p><b>Guess the Programming Language:</b></p>
+        <p id="wordSpotLight">The word to be guessed goes here</p>
+        <div id="keyboard"></div>
+        <button class="btn btn-info" onClick="reset()">Reset</button>
+    </div>
+</div>
+
+<script src="js/main.js"></script>
+</body>
+</html>
