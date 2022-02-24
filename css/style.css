@@ -190,6 +190,10 @@ padding: 10px;
 background-color: black;
 border: 4px solid white;
 }
+.loss-msg, .win-msg {
+    color: black;
+}
+
 #a, #b, #c, #d, #e, #f, #g, #h, #i, #j, #k, #l, #m, #n, #o, #p, #q, #r, #s, #t, #u, #v, #w, #x, #y, #z  {
     background-color:coral;
     font-family: 'Architects Daughter', cursive;
@@ -204,10 +208,10 @@ border: 4px solid white;
     transition-delay: 0.1s;
 }
 
-#a:hover {
+#a:hover, #b:hover {
     background-color: rgb(255, 255, 255);
-    width: 45px;
-    height: 50px;
+    width: 35px;
+    height: 40px;
     border: 4px solid;
     border-radius: 50%;
     border-color: #8e44ad;
@@ -220,7 +224,7 @@ border: 4px solid white;
     2px 2px #53a7ea;
 }
 
-#b:hover {
+/* #b:hover {
     background-color: rgb(255, 255, 255);
     width: 45px;
     height: 50px;
@@ -234,7 +238,7 @@ border: 4px solid white;
     1px 1px #53a7ea,
     2px 2px #53a7ea,
     2px 2px #53a7ea;
-}
+} */
 
 #c:hover {
     background-color: rgb(255, 255, 255);

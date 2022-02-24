@@ -61,14 +61,14 @@ function updateHangmanPicture() {
 
 function checkIfGameWon() {
   if (wordStatus === answer) {
-    document.getElementById('keyboard').innerHTML = 'You Won!!!';
+    document.getElementById('keyboard').innerHTML = '<div class="win-msg">You Won!!!</div>';
   }
 }
 
 function checkIfGameLost() {
   if (mistakes === maxWrong) {
     document.getElementById('wordSpotLight').innerHTML = 'The answer was: ' + answer;
-    document.getElementById('keyboard').innerHTML = 'You Lost!!!';
+    document.getElementById('keyboard').innerHTML = '<div class="loss-msg">You Lost!!!</div>';
   }
 }
 
