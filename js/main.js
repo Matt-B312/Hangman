@@ -6,7 +6,6 @@ let programming_languages = [
 	"java",
 	"html",
 	"css",
-	"c",
 	"csharp",
 	"golang",
 	"kotlin",
