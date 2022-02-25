@@ -10,7 +10,7 @@ Hangman is a classic guessing game that most of us have played BUT did you know 
 ## Getting Started
 
 
-To start simply click the link (https://github.com/Matt-B312/Hangman/tree/gh-pages) and begin guessing letters at the bottem of the play screen. When you've eithe won or lost simply click reset and begin again.
+To start simply click the link (https://matt-b312.github.io/Hangman/) and begin guessing letters at the bottem of the play screen. When you've eithe won or lost simply click reset and begin again.
 
 
 ## Screen Shots
