@@ -15,46 +15,23 @@ To start simply click the link (https://github.com/Matt-B312/Hangman/tree/gh-pag
 
 ## Screen Shots
 
-* ![alt text](readme1.png)
-* ex. Windows 10
+* ![alt text](https://github.com/Matt-B312/Hangman/blob/main/screenshots/readme2.png?raw=true)
+* ![alt text](https://github.com/Matt-B312/Hangman/blob/main/screenshots/readme1.png?raw=true)
 
-### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+## technology used: 
 
-### Executing program
+* HTML 
+* CSS
+* JAVASCRIPT
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+## Executing program
 
-## Authors
+* Click on link above
 
-Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+## Next steps:
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
+I would like to add some addittional loading screens with different catagorys and more word choices. As well i would like to do a hard mode and multiplayer mode.
